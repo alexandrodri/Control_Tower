@@ -6,5 +6,5 @@ Las carpetas corresponden a los siguientes recursos de información:
 
 | Carpeta  | Descripción  |
 |:---|---|
-| [Querys](Querys)  | Describe el proceso de instalación del módulo |
-| [Python](Python)  | Funciones que permiten crear y modificar configuraciones los reportes. |
+| [Querys](Querys)  | Querys utilizadas para los analisis y procesos de Control Tower. |
+| [Python](Python)  | Libros para procesos puntuales o modelos de Control Tower. |
